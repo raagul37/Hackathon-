@@ -1,0 +1,43 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin-top:0%;
+  }
+  
+  #container {
+    margin:auto;
+    background-image:url(background.jpeg);
+    background:fill;
+   
+  }
+  
+  #poke-container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+  }
+  
+  #header-container {
+    border-radius: 0px !important;
+   background-color:grey; 
+   height: 100px;
+   margin-bottom: 0%;
+  }
+  
+  #header-text{
+    margin: 0 auto;
+  }
+  
+  #generate-pokemon {
+    margin: 0 auto;
+    font-family: 'Pokemon Solid', sans-serif;
+    font-weight: 100;
+    color:yellow;
+  }
+  @import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+  h1{
+    font-family: 'Pokemon Solid', sans-serif;
+    color:indianred;
+    font-weight: 200;
+  }
